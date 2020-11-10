@@ -1,0 +1,148 @@
+{
+  "expenseItems": [
+    {
+      "purchasedOn": "2020-11-29",
+      "nature": "Ciné",
+      "originalAmount": {
+        "amount": 2,
+        "currency": "GBP"
+      },
+      "comment": "h",
+      "id": "14889094-6306-4aed-b62b-1b0f10e6d5d1",
+      "createdAt": "2020-11-09T16:39:09.239Z",
+      "lastModifiedAt": "2020-11-09T16:39:09.239Z"
+    },
+    {
+      "purchasedOn": "2020-11-05",
+      "nature": "f",
+      "originalAmount": {
+        "amount": 1,
+        "currency": "EUR"
+      },
+      "comment": "fd",
+      "id": "d1e6b0aa-9e1b-4d10-a2ef-94759d705ab4",
+      "createdAt": "2020-11-09T17:09:27.471Z",
+      "lastModifiedAt": "2020-11-09T17:09:27.471Z"
+    },
+    {
+      "purchasedOn": "2020-11-01",
+      "nature": "R",
+      "originalAmount": {
+        "amount": "1",
+        "currency": "EUR"
+      },
+      "comment": "M",
+      "id": "6d88bd61-7094-4060-a160-1b462cb8038c",
+      "createdAt": "2020-11-10T08:35:32.041Z",
+      "lastModifiedAt": "2020-11-10T08:35:32.041Z"
+    },
+    {
+      "purchasedOn": "2020-11-01",
+      "nature": "R",
+      "originalAmount": {
+        "amount": 2,
+        "currency": "GBP"
+      },
+      "comment": "M",
+      "id": "0301af51-d6c6-4fa7-8131-a08e7d2b83fd",
+      "createdAt": "2020-11-10T11:20:35.823Z",
+      "lastModifiedAt": "2020-11-10T11:22:54.854Z"
+    },
+    {
+      "purchasedOn": "2020-11-01",
+      "nature": "R",
+      "originalAmount": {
+        "amount": "1",
+        "currency": "EUR"
+      },
+      "comment": "M",
+      "id": "c9c8ac3b-0a8a-42a6-af0e-b1174a1ed458",
+      "createdAt": "2020-11-10T12:10:11.509Z",
+      "lastModifiedAt": "2020-11-10T12:10:11.509Z"
+    },
+    {
+      "purchasedOn": "2020-11-11",
+      "nature": "Joseph",
+      "originalAmount": {
+        "amount": 2,
+        "currency": "EUR"
+      },
+      "comment": "d",
+      "id": "6a2d517e-0781-4fe1-8f4e-4e8efccba95f",
+      "createdAt": "2020-11-10T12:11:39.233Z",
+      "lastModifiedAt": "2020-11-10T12:11:39.233Z"
+    },
+    {
+      "purchasedOn": "2020-11-01",
+      "nature": "R",
+      "originalAmount": {
+        "amount": "1",
+        "currency": "EUR"
+      },
+      "comment": "M",
+      "id": "25ce1adf-d0a7-472a-bc76-d85dfef98049",
+      "createdAt": "2020-11-10T16:11:05.439Z",
+      "lastModifiedAt": "2020-11-10T16:11:05.439Z"
+    },
+    {
+      "purchasedOn": "2020-11-01",
+      "nature": "R",
+      "originalAmount": {
+        "amount": "1",
+        "currency": "EUR"
+      },
+      "comment": "M",
+      "id": "0cec97c3-ffe3-4382-8c76-29e4c721dfa1",
+      "createdAt": "2020-11-10T16:14:14.450Z",
+      "lastModifiedAt": "2020-11-10T16:14:14.450Z"
+    },
+    {
+      "purchasedOn": "2020-11-01",
+      "nature": "R",
+      "originalAmount": {
+        "amount": "1",
+        "currency": "EUR"
+      },
+      "comment": "M",
+      "id": "a3d55d74-d6f8-4228-a22b-54f51eeab48c",
+      "createdAt": "2020-11-10T16:14:14.731Z",
+      "lastModifiedAt": "2020-11-10T16:14:14.731Z"
+    },
+    {
+      "purchasedOn": "2020-11-01",
+      "nature": "R",
+      "originalAmount": {
+        "amount": "1",
+        "currency": "EUR"
+      },
+      "comment": "M",
+      "id": "245205ac-683b-4f03-bf7d-654cca4f50e4",
+      "createdAt": "2020-11-10T16:20:08.403Z",
+      "lastModifiedAt": "2020-11-10T16:20:08.403Z"
+    },
+    {
+      "purchasedOn": "2018-12-04",
+      "nature": "Restaurant",
+      "originalAmount": {
+        "amount": 17,
+        "currency": "GBP"
+      },
+      "comment": "Mission de 5 jours à Londres",
+      "id": "9f57208a-d26b-419a-902e-616f399e36d9",
+      "createdAt": "2020-11-10T16:27:40.746Z",
+      "lastModifiedAt": "2020-11-10T16:27:40.746Z"
+    },
+    {
+      "purchasedOn": "2020-11-06",
+      "nature": "Joseph",
+      "originalAmount": {
+        "amount": 1,
+        "currency": "EUR"
+      },
+      "comment": "s",
+      "id": "4b2320de-3a0f-4d1d-86f1-2521fa0206a6",
+      "createdAt": "2020-11-10T16:30:02.787Z",
+      "lastModifiedAt": "2020-11-10T16:30:02.787Z"
+    }
+  ]
+}
